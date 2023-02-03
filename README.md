@@ -1,1 +1,1 @@
-# NPJ_threeband
+# DCA_singleband_edoped
