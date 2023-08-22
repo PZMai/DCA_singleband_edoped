@@ -1,1 +1,1 @@
-# DCA_singleband_edoped
+# DCA_singleband_edoped for Mai, P., Nichols, N.S., Karakuzu, S. et al. Robust charge-density-wave correlations in the electron-doped single-band Hubbard model. Nat Commun 14, 2889 (2023). https://doi.org/10.1038/s41467-023-38566-7
